@@ -1,0 +1,11 @@
+html {
+  background: #07111d;
+}
+
+body {
+  min-width: 320px;
+}
+
+#root {
+  isolation: isolate;
+}
